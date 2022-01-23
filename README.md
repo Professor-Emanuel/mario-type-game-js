@@ -1,5 +1,7 @@
 # mario-type-game-js
 
+You only need the Mario_Type_Game_Server folder!
+
 1. Project setup -- done
 2. Player creation -- done
 3. Gravity implementation -- done
