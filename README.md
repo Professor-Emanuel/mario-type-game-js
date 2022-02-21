@@ -9,11 +9,12 @@ You only need the Mario_Type_Game_Server folder!
 5. Platforms implementation -- done
 6. "Scroll" the background -- done
 7. Win game scenario -- done
-8. Image platforms
-9. Parallax scroll illusion - scroll background
-10. Death scenario
-11. Level creation
-12. Fine-tuning
+8. Image platforms -- done
+9. Parallax scroll illusion - scroll background -- done
+10. Death scenario -- done
+11. Level creation -- done
+12. Fine-tuning -- done
+13. Sprite creation -- NOT done
 
 
 Make your own animations with the Deekay Tool: https://aescripts.com/deekay-tool/
